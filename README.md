@@ -24,7 +24,7 @@ I’ve been fortunate to work on several challenging and meaningful projects thr
 You can explore more of my work in my [GitHub repositories](https://github.com/mmb0710).
 
 ## 💼 Internship Experience
-- **Web Portal Developer (IT Department - Sintex Industries)**: From **August 2022 - January 2023**, I worked on the development of an **Infra Portal** for internal use, focusing on backend development, asset management, and database integration using **PHP, MySQL**, and **JavaScript**. I gained practical experience in web development, automation, and project management during my internship.
+- **Web Portal Developer (IT Department - Sintex Industries)**: From **January 2021 - January 2023**, I worked on the development of an **Infra Portal** for internal use, focusing on backend development, asset management, and database integration using **PHP, MySQL**, and **JavaScript**. I gained practical experience in web development, automation, and project management during my internship.
 - **Software Development (Flarial Technology)**: I completed a brief yet impactful internship at **Flarial Technology**, where I gained exposure to **Android app development**, focusing on UI/UX design, layout, and the overall development lifecycle of mobile applications.
 
 ## 🚀 What I’m Currently Working On
